@@ -1,5 +1,8 @@
 # Efecto_de_Blurring-Multiprocesadores
 
+Autor: Benjamín Gutiérrez Padilla
+Matrícula: A01732079
+
 Programa que realiza el efecto de desenfoque sobre una imagen de gran pixelaje (mayor a 2000 pixeles ya sea en alto o ancho de la imagen).
 
 La dimensión mínima de la mascara para observar el efecto de desenfoque:
